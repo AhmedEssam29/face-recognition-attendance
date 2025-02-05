@@ -28,11 +28,10 @@ face_recognition_attendance/
 │── requirements.txt  # Dependencies
 │── README.md  # Project documentation
 │── stream.py  # for streamlit deployment
-│
-├── face/
-│   ├── imgs/  # Stores employee images
-│   ├── cap_imgs/  # Stores captured images
-│   ├── attendance.csv  # Attendance records
+
+├── imgs/  # Stores employee images
+├── cap_imgs/  # Stores captured images
+├── attendance.csv  # Attendance records
 ```
 
 ## 🚀 Installation & Setup

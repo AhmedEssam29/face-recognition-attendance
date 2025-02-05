@@ -72,7 +72,7 @@ pip install streamlit
 ```
 ### 2️⃣ Run the Streamlit App
 ```bash
-streamlit run app.py
+streamlit run stream.py
 ```
 ### 3️⃣ Access the Web Interface
 Once the app is running, open your browser and go to:

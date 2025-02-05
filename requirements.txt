@@ -1,0 +1,10 @@
+opencv-python
+face-recognition
+numpy
+pandas
+datetime
+
+
+"""pip install -r requirements.txt
+      (run this command)
+"""

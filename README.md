@@ -81,6 +81,9 @@ http://localhost:8501
 ```
 This will launch a user-friendly web interface for real-time face recognition and attendance tracking.
 
+![alt text](https://github.com/AhmedEssam29/face-recognition-attendance/blob/main/streamapp.png?raw=true)
+
+
 ## 🛠️ How It Works
 ### 🎥 Running the Camera
 
